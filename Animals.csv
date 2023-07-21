@@ -1,0 +1,74 @@
+Tiger1,4,Bengal,true,Savannah Terrain
+Tiger2,8,Indochinese,true,Savannah Terrain
+Tiger3,2,Siberian,false,Savannah Terrain
+Tiger4,5,Malayan,true,Savannah Terrain
+Elephant1,20,African,true,Fress Grass Terrain
+Elephant2,10,Indian,true,Fress Grass Terrain
+Elephant3,15,Forest,false,Fress Grass Terrain
+Elephant4,18,Asian,true,Fress Grass Terrain
+Deer1,4,Mule,true,Fress Grass Terrain
+Deer2,12,White tailed,false,Fress Grass Terrain
+Deer3,6,Sika,true,Fress Grass Terrain
+Deer4,3,Red,false,Fress Grass Terrain
+Giraffe1,20,Masai,true,Fress Grass Terrain
+Giraffe2,10,West African,false,Fress Grass Terrain
+Giraffe3,17,South African,true,Fress Grass Terrain
+Giraffe4,12,Thornicroft,true,Fress Grass Terrain
+Giraffe5,8,Kordofan,false,Fress Grass Terrain
+Panda1,7,Giant,true,Fress Grass Terrain
+Panda2,5,Red,false,Fress Grass Terrain
+Panda3,4,Chinese,true,Fress Grass Terrain
+Panda4,8,Sichuan,true,Fress Grass Terrain
+Dolphin1,2,Bottlenose,true,Aquarium Terrain
+Dolphin2,6,Spotted,false,Aquarium Terrain
+Dolphin3,1,Atlantic,false,Aquarium Terrain
+Dolphin4,4,Pacific,true,Aquarium Terrain
+Fish1,2,Salmon,true,Aquarium Terrain
+Fish2,4,Trout,false,Aquarium Terrain
+Fish3,1,Bass,true,Aquarium Terrain
+Fish4,6,Perch,true,Aquarium Terrain
+Fish5,2,White shark,false,Aquarium Terrain
+Crocodile1,10,American,true,Marshland
+Crocodile2,17,Nile,false,Marshland
+Crocodile3,20,Saltwater,true,Marshland
+Crocodile4,26,Dwarf,true,Marshland
+Crocodile5,30,Narrow snout,true,Marshland
+Snake1,5,Pythons,true,Rocky Terrain
+Snake2,2,Rattlesnakes,true,Rocky Terrain
+Snake3,5,Cobras,false,Rocky Terrain
+Snake4,6,Vipers,true,Rocky Terrain
+Snake5,4,Black Mamba,true,Rocky Terrain
+Snake6,7,Garter,false,Rocky Terrain
+Snake7,10,Whip,false,Rocky Terrain
+Tortoise1,30,African spurred,true,Rocky Terrain
+Tortoise2,28,Russian,true,Rocky Terrain
+Tortoise3,20,Galapagos,true,Rocky Terrain
+Tortoise4,18,Aldabra,true,Rocky Terrain
+Tortoise5,19,Russian,false,Rocky Terrain
+Flamingo1,4,Greater,true,Fresh Grass Terrain
+Flamingo2,2,Chilean,true,Fresh Grass Terrain
+Flamingo3,6,Andean,false,Fresh Grass Terrain
+Flamingo4,1,American,false,Fresh Grass Terrain
+Flamingo5,3,James's,true,Fresh Grass Terrain
+Sea-Gull1,2,Western,true,Fresh Grass Terrain
+Sea-Gull2,8,California,false,Fresh Grass Terrain
+Sea-Gull3,4,Glacous,true,Fresh Grass Terrain
+Sea-Gull4,5,Black-headed,true,Fresh Grass Terrain
+Sea-Gull5,6,Iceland,false,Fresh Grass Terrain
+Sea-Gull6,10,Mew,false,Fresh Grass Terrain
+Parakeets1,1,Budgerigar,true,Fresh Grass Terrain
+Parakeets2,7,Rose-Ringed,true,Fresh Grass Terrain
+Parakeets3,6,Monk,false,Fresh Grass Terrain
+Parakeets4,8,Quaker,true,Fresh Grass Terrain
+Parakeets5,3,African,true,Fresh Grass Terrain
+Pelicans1,6,American White,true,Fresh Grass Terrain
+Pelicans2,3,Australian,false,Fresh Grass Terrain
+Pelicans3,4,Brown,true,Fresh Grass Terrain
+Pelicans4,10,Pink-Backed,true,Fresh Grass Terrain
+Pelicans5,6,White-faced,false,Fresh Grass Terrain
+Pelicans6,7,Dalmatian,true,Fresh Grass Terrain
+Macaus1,2,Bolivian,false,Fresh Grass Terrain
+Macaus2,20,Scarlet,true,Fresh Grass Terrain
+Macaus3,10,Cobault-Blue,true,Fresh Grass Terrain
+Macaus4,8,Hyacinth,true,Fresh Grass Terrain
+Macaus5,15,Conure,false,Fresh Grass Terrain
